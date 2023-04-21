@@ -1,0 +1,46 @@
+
+.common{ 
+    text-align:center;
+    background-color: whitesmoke;
+padding: 
+
+}
+.header{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    height: 40px;
+    background-color: black;
+    color: white;
+    
+
+}
+.body{
+    font-size: medium;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.text{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+.link{
+    text-align: left;
+    text-decoration: none;
+    font-size: small;
+    font-family:Arial, Helvetica, sans-serif;}
+.list{text-align-last:left;
+    font-size: larger;
+    font-weight: bold;
+}
